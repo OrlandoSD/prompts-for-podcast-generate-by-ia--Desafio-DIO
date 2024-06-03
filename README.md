@@ -3,7 +3,7 @@
 
 <p align="center">
 <img 
-    src="./assets/OrlandoSD.png"
+    src=".github\/assets/OrlandoSD.png"
     width="300"
 />
 </p>
