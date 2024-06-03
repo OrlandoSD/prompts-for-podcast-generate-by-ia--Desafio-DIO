@@ -82,8 +82,7 @@ Utilize os prompts dentro do link do Notion fornecido na parte de Materiais para
       width=80 
       src="https://github.com/OlrnadoSD"
     />
-    <p>&nbsp&nbsp&nbspOrlandoSD<br>
-    &nbsp&nbsp&nbsp
+   
     <a 
         href="https://github.com/OlrnadoSD">
         GitHub
