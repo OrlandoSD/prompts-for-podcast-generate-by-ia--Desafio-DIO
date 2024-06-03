@@ -39,16 +39,18 @@ Confira o podcast sobre o assunto [aqui](.github/assets/podcast_editado.mp3).
 </audio>
 >
 >
-Projeto Podcast Gerado por I.A.s
+#Projeto Podcast Gerado por I.A.s
 >
 >
-ℹ️ NOTE: Este é o repositório desenvolvido durante o curso Formação ChatGPT for Devs no site da DIO
+##
+        >ℹ️ NOTE: Este é o repositório desenvolvido durante o curso Formação ChatGPT for Devs no site da DIO
 >
 >
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizei prompts para gerar as etapa de criação.
+##Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+>
+>
+##Utilizei prompts para gerar as etapa de criação.
 
 💻 Tecnologias utilizadas no projeto
 
@@ -83,7 +85,7 @@ Utilize os prompts dentro do link do Notion fornecido na parte de Materiais para
       align=left 
       margin=10 
       width=80 
-      src="https://github.com/account"
+      src="https://github.com/OlrnadoSD"
     />
     <p>&nbsp&nbsp&nbspOrlandoSD<br>
     &nbsp&nbsp&nbsp
