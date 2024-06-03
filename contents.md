@@ -1,4 +1,4 @@
-"O Mundo Dev: A Jornada pela Inovação"
+"Ola! Mundo Dev: hoje vamos falar sobre A Jornada pela Inovação"
 ##Episódio 1: Bem-vindos ao Universo da Tecnologia!
 
 
