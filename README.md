@@ -35,7 +35,7 @@ Confira o podcast sobre o assunto [aqui](https://on.soundcloud.com/24jYUuFeWSpEM
 
 <audio controls>
   <source src=".github/assets/podcast_editado.mp3" type="audio/mpeg">
-  Seu navegador não
+  
 </audio>
 
 #Projeto Podcast Gerado por I.A.s
@@ -45,7 +45,7 @@ Confira o podcast sobre o assunto [aqui](https://on.soundcloud.com/24jYUuFeWSpEM
 
 ##       Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-##Utilizei prompts para gerar as etapa de criação.
+##        Utilizei prompts para gerar as etapa de criação.
 
 💻 Tecnologias utilizadas no projeto
 
