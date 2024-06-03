@@ -35,7 +35,7 @@ Confira o podcast sobre o assunto [aqui](https://on.soundcloud.com/24jYUuFeWSpEM
 
 <audio controls>
   <source src=".github/assets/podcast_editado.mp3" type="audio/mpeg">
-  Seu navegador não suporta o elemento de áudio.
+  Seu navegador não
 </audio>
 >
 >
