@@ -1,7 +1,7 @@
 
 
 
-![Podcast IA OrlandoSD](github\assets\OrlandoSD.png)
+![Podcast IA OrlandoSD](.github\assets\OrlandoSD.png)
 
 
 
