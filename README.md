@@ -1,7 +1,8 @@
 
 
 
-![Podcast IA OrlandoSD](.github\assets\OrlandoSD.png)
+![image](https://github.com/OrlandoSD/prompts-for-podcast-generate-by-ia--Desafio-DIO/assets/62121619/ba1848c7-f422-4a60-8d4d-1c22c90d2be4)
+
 
 
 
