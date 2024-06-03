@@ -4,27 +4,16 @@
 ![image](https://github.com/OrlandoSD/prompts-for-podcast-generate-by-ia--Desafio-DIO/assets/62121619/ba1848c7-f422-4a60-8d4d-1c22c90d2be4)
 
 
-
-
-
-
-
-
-
-
-
-
-
 Projeto Podcast Gerado por I.A.s
 >
 >
-ℹ️ NOTE: Este é o repositório desenvolvido durante uma live no Youtube em parceria com a DIO
+ℹ️ NOTE: Este é o repositório desenvolvido durante o curso Formação ChatGPT for Devs no site da DIO
 >
 >
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Utilizei prompts para gerar as etapa de criação.
 
 💻 Tecnologias utilizadas no projeto
 
@@ -40,7 +29,7 @@ Midjourney Para gerar capas
 Capcut para tratar aúdio e adicionar sons de fundo
 
 📚 Materiais
-Link da live no Youtube
+
 Notion Template
 Editor de aúdio
 
