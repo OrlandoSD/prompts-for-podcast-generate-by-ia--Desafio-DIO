@@ -35,10 +35,14 @@ Confira o podcast sobre o assunto [aqui](https://on.soundcloud.com/24jYUuFeWSpEM
 
 <audio controls>
   <source src=".github/assets/podcast_editado.mp3" type="audio/mpeg">
+<<<<<<< HEAD
+  Seu navegador não suporta o elemento de áudio.
+=======
   
+>>>>>>> 57348e49999b65502d343b824e03ad94f5572b99
 </audio>
 
-#Projeto Podcast Gerado por I.A.s
+#        Projeto Podcast Gerado por I.A.s
 
 ##         ℹ️ NOTE: Este é o repositório desenvolvido durante o curso Formação ChatGPT for Devs no site da DIO
 
