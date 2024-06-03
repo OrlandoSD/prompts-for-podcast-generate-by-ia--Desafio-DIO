@@ -1,4 +1,4 @@
-https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia/blob/main/README.MD
+
 ![image](https://github.com/OrlandoSD/prompts-for-podcast-generate-by-ia--Desafio-DIO/assets/62121619/ba1848c7-f422-4a60-8d4d-1c22c90d2be4)
 
 <p align="center">
@@ -75,22 +75,6 @@ Utilize os prompts dentro do link do Notion fornecido na parte de Materiais para
 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
 🤖 3. Use os prompts de artes no midjourney
 
-[<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://github.com/OlrnadoSD"
-    />
-   
-    [<a 
-        href="https://github.com/OlrnadoSD">
-        GitHub](https://github.com/OrlandoSD/prompts-for-podcast-generate-by-ia/blob/main/README.MD)
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    </p>
-<br/><br/>
-<p>](https://github.com/OrlandoSD/prompts-for-podcast-generate-by-ia/blob/main/README.MD)
+
 
 ---
