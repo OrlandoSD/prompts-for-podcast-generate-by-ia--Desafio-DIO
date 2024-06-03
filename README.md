@@ -3,7 +3,8 @@
 
 ![image](https://github.com/OrlandoSD/prompts-for-podcast-generate-by-ia--Desafio-DIO/assets/62121619/ba1848c7-f422-4a60-8d4d-1c22c90d2be4)
 
-Confira o podcast sobre o assunto [aqui]().
+Confira o podcast sobre o assunto [aqui](https://github.com/OrlandoSD/prompts-for-podcast-generate-by-ia--Desafio-DIO/.github/assets
+/podcast_editado.mp3).
 Projeto Podcast Gerado por I.A.s
 >
 >
