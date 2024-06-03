@@ -30,7 +30,7 @@
 </div>
 
 
-Confira o podcast sobre o assunto [aqui](.github/assets/podcast_editado.mp3).
+Confira o podcast sobre o assunto [aqui](https://on.soundcloud.com/24jYUuFeWSpEMMit5).
 
 
 <audio controls>
