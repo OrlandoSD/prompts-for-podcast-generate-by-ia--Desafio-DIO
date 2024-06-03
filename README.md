@@ -40,7 +40,7 @@ Confira o podcast sobre o assunto [aqui](https://on.soundcloud.com/24jYUuFeWSpEM
 ##         ℹ️ NOTE: Este é o repositório desenvolvido durante o curso Formação ChatGPT for Devs no site da DIO
 
 
-##       Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+#       Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
 ##        Utilizei prompts para gerar as etapa de criação.
 
