@@ -32,7 +32,7 @@ Confira o podcast sobre o assunto [aqui](https://on.soundcloud.com/24jYUuFeWSpEM
 
 
 <audio controls>
-  <source src=".github/assets/podcast_editado.mp3" type="audio/mpeg">
+  <source src=".github/assets/Podcast_editado_remasterizado.mp3" type="audio/mpeg">
 </audio>
 
 #        Projeto Podcast Gerado por I.A.s
