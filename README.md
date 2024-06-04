@@ -28,7 +28,7 @@
 </div>
 
 
-Confira o podcast sobre o assunto [aqui]([[https://on.soundcloud.com/24jYUuFeWSpEMMit5](https://soundcloud.com/orlando-santos-dourado/podcast_editado_remasterizado?si=a7a5c9fcd4254760bff56a1e78980ede&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)](https://soundcloud.com/orlando-santos-dourado/podcast_editado_remasterizado)).
+Confira o podcast sobre o assunto [aqui](https://soundcloud.com/orlando-santos-dourado/podcast_editado_remasterizado).
 
 
 <audio controls>
